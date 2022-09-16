@@ -1,0 +1,16 @@
+================================================================================
+                                                                  *session.nvim*
+
+session.nvim is a plugin for demo purpose. Development is in progress.
+
+To find out more:
+https://github.com/az1919/session.nvim
+
+  :h Session
+
+SessionStore <name=default>                                       *SessionStore*
+    Store current session
+SessionLoad <name=default>                                         *SessionLoad*
+    Load saved session
+================================================================================
+
